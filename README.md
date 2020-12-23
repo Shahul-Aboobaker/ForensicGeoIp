@@ -1,4 +1,4 @@
-# ForensicGeoIp
+# IP-Geo-Locator
 
 Forensic tool to geo locate the traffic from a packet capture (.pcap) file for kali linux or any other linux distro
 
